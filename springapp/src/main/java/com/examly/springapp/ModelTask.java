@@ -43,10 +43,10 @@ public class ModelTask {
     }
     String taskStatus;
     public String getHouseno() {
-        return taskStatus;
+        return houseno;
     }
-    public void setTaskStatus(String taskStatus) {
-        this.taskStatus = taskStatus;
+    public void setHouseno(String houseno) {
+        this.houseno = houseno;
     }
 
     
